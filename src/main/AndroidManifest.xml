@@ -16,7 +16,7 @@
 
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-9524002965449333~6549165435"/>
+            android:value="ca-app-pub-yyyyyyyyyyyyyyy~xxxxxxxxx"/>
 
         <activity android:name=".Splash"  android:theme="@style/Theme.AppCompat.Light.NoActionBar">
             <intent-filter>
