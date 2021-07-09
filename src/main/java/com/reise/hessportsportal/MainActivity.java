@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
             public void onInitializationComplete(InitializationStatus initializationStatus) {
                 AdRequest adRequest = new AdRequest.Builder().build();
 
-                InterstitialAd.load(MainActivity.this,"ca-app-pub-9524002965449333/3539858711", adRequest, new InterstitialAdLoadCallback() {
+                InterstitialAd.load(MainActivity.this,"ca-app-pub-yyyyyyyyyyyyyy/xxxxxxxxxx", adRequest, new InterstitialAdLoadCallback() {
                     @Override
                     public void onAdLoaded(@NonNull InterstitialAd interstitialAd) {
                         // The mInterstitialAd reference will be null until
